@@ -7,4 +7,4 @@ function apprank_poweredby() {
 		echo $html;
 		}
    }
-add_action('wp_footer', 'apprank_poweredby');;
+add_action('wp_footer', 'apprank_poweredby');
